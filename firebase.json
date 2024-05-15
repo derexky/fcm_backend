@@ -1,0 +1,14 @@
+{
+  "functions": [
+    {
+      "source": "fire",
+      "codebase": "fire",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ]
+    }
+  ]
+}
